@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://matagama.org/sitemap.xml
+Sitemap: https://www.matanauniversity.ac.id/logs/sitemap.xml
